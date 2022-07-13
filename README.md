@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/screenshot.png))
+![](/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddlelandingpage-XQp0O5V9_G)
+- Live Site URL: [Netlify](https://endearing-cobbler-49172a.netlify.app/)
 
 ## My process
 

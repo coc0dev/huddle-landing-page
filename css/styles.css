@@ -88,6 +88,20 @@ ion-icon:hover {
     border-color: hsl(300, 69%, 71%);
 }
 
+.footer {
+    font-size: 14px;
+}
+
+.footer a {
+    text-decoration: none;
+    color:hsl(300, 69%, 71%);
+    font-weight: 600;
+}
+
+.footer a:hover {
+    color: rgba(61, 60, 60, 0.815);
+}
+
 @media only screen and (min-width: 1100px) {
     body {
         background-image: url(../images/bg-desktop.svg);
